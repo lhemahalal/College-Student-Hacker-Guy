@@ -1,5 +1,5 @@
 # College-Student-Hacker-Guy
-Submission for Hackabull 2021
+This game was created by Leehe Mahalal and Stephanie Pena specfically for Hackabull 2021, a 24-hour virtual hackathon hosted by the University of South Florida. 
 
 ## Inspiration
 Inspired by old school sidescroller fighting games like Teenage Mutant Ninja Turtles, we wanted to put a hacker-inspired spin on an old classic. 
