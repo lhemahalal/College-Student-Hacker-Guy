@@ -21,3 +21,5 @@ This was our first time implementing a parallax background, so that was a fun le
 
 ## What's next for College Student Hacker Guy
 The hacker guy continues to hack.
+
+## [Play it here!](https://amateurtechnomancer.itch.io/college-student-hacker-guy)
